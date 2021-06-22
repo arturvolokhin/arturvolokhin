@@ -2,9 +2,9 @@
 
 <details>
   <summary>My photos</summary>
-  <img src="https://github.com/arturvolokhin/images/blob/main/myself1.png" name="image-name" width="290px">
-  <img src="https://github.com/arturvolokhin/images/blob/main/myself2.png" name="image-name" width="292px">
-  <img src="https://github.com/arturvolokhin/images/blob/main/myself.png" name="image-name" width="297px">
+  <img src="https://github.com/arturvolokhin/images/blob/main/myself1.png" name="image-name" width="260px">
+  <img src="https://github.com/arturvolokhin/images/blob/main/myself2.png" name="image-name" width="262px">
+  <img src="https://github.com/arturvolokhin/images/blob/main/myself.png" name="image-name" width="267px">
 </details>
 
 ### I’m studying front-end development in [TeachMeSkills](https://teachmeskills.by/).
