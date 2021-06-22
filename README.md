@@ -9,7 +9,7 @@
 
 ### I’m studying front-end development in [TeachMeSkills](https://teachmeskills.by/).
 
-### Looking for a job as an trainee or junior front-end developer.
+### Looking for a job as an [trainee or junior](https://) front-end developer.
 
 ### You can see my projects on the links below ⬇️
 
