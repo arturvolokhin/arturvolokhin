@@ -28,14 +28,14 @@
 
  - **HTML + CSS:**
 
-    - <a href="https://github.com/arturvolokhin/dashboard">Dashboard</a>
-    - <a href="https://github.com/arturvolokhin/Konstruct">Landing page</a>
+    - <a href="https://github.com/arturvolokhin/dashboard" target="_blank">Dashboard</a>
+    - <a href="https://github.com/arturvolokhin/Konstruct" target="_blank">Landing page</a>
 
 - **HTML + CSS + JS...:**
-    - <a href="https://github.com/arturvolokhin/weather-app">Weather-app</a>
-    - <a href="https://github.com/arturvolokhin/kanban">Kanban</a>
-    - <a href="https://github.com/arturvolokhin/arturvolokhin.github.io">Landing page</a>
-    - <a href="https://github.com/arturvolokhin/tic-tac-toe">Tic-tac-toe</a>
+    - <a href="https://github.com/arturvolokhin/weather-app target="_blank"">Weather-app</a>
+    - <a href="https://github.com/arturvolokhin/kanban" target="_blank">Kanban</a>
+    - <a href="https://github.com/arturvolokhin/arturvolokhin.github.io" target="_blank">Landing page</a>
+    - <a href="https://github.com/arturvolokhin/tic-tac-toe" target="_blank">Tic-tac-toe</a>
 
 - **React:**
     - <a href="#">In progress...😄</a>
@@ -46,9 +46,9 @@
 
 
 ## 📭 `Contacts`
-- **VK:** <a href="https://vk.com/arturvolokhin97">arturvolokhin97</a>
+- **VK:** <a href="https://vk.com/arturvolokhin97" target="_blank">arturvolokhin97</a>
 - **Telegram:** @arturvolokhin
-- **Instagram:** <a href="instagram.com/artur.volokhin">artur.volokhin</a>
+- **Instagram:** <a href="instagram.com/artur.volokhin" target="_blank">artur.volokhin</a>
 - **Mail:** arturvolokhin@mail.ru
 
 
