@@ -32,7 +32,7 @@
     - <a href="https://github.com/arturvolokhin/Konstruct" target="_blank">Landing page</a>
 
 - **HTML + CSS + JS...:**
-    - <a href="https://github.com/arturvolokhin/weather-app target="_blank"">Weather-app</a>
+    - <a href="https://github.com/arturvolokhin/weather-app" target="_blank">Weather-app</a>
     - <a href="https://github.com/arturvolokhin/kanban" target="_blank">Kanban</a>
     - <a href="https://github.com/arturvolokhin/arturvolokhin.github.io" target="_blank">Landing page</a>
     - <a href="https://github.com/arturvolokhin/tic-tac-toe" target="_blank">Tic-tac-toe</a>
