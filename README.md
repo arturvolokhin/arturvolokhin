@@ -17,9 +17,10 @@
 
 <a href="https://html.spec.whatwg.org/" title="HTML5"><img src="https://github.com/arturvolokhin/images/blob/main/icons/html.svg" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" title="CSS3"><img src="https://github.com/arturvolokhin/images/blob/main/icons/css.svg" /></a>
-<a href="https://www.javascript.com/" title="JavaScript"><img src="https://github.com/arturvolokhin/images/blob/main/icons/js.svg" /></a>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/arturvolokhin/images/blob/main/icons/react.svg" /></a>
-<a href="https://webpack.js.org/" title="Webpack"><img src="https://github.com/arturvolokhin/images/blob/main/icons/webpack.svg" /></a>
+<a href="https://www.javascript.com/" title="JavaScript"><img src="https://github.com/arturvolokhin/images/blob/main/icons/js.svg" width="60px" /></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/arturvolokhin/images/blob/main/icons/react.svg" width="60px" /></a>
+<a href="https://webpack.js.org/" title="Webpack"><img src="https://github.com/arturvolokhin/images/blob/main/icons/webpack.svg" width="60px"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/arturvolokhin/images/blob/main/icons/git.svg" width="60px" /></a>
 <a href="https://www.npmjs.com/" title="Npm"><img src="https://github.com/arturvolokhin/images/blob/main/icons/npm.svg" /></a>
 
 
@@ -38,6 +39,7 @@
     - <a href="https://github.com/arturvolokhin/tic-tac-toe" target="_blank">Tic-tac-toe</a>
 
 - **React:**
+    - <a href="https://github.com/arturvolokhin/todo-react">Todo</a>
     - <a href="#">In progress...😄</a>
 
 
