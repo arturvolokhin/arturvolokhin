@@ -37,12 +37,15 @@
 - ## HTML + CSS + JS...:
     - ### <a href="https://github.com/arturvolokhin/kanban" target="_blank">Kanban</a>
     - <a href="https://github.com/arturvolokhin/weather-app" target="_blank">Weather-app</a>
-    - <a href="https://github.com/arturvolokhin/arturvolokhin.github.io" target="_blank">Landing page</a>
-    - <a href="https://github.com/arturvolokhin/tic-tac-toe" target="_blank">Tic-tac-toe</a>
 
 - ## React:
+    - ### <a style="color:red" href="https://github.com/arturvolokhin/icecream-shop-react">Ice cream shop</a>
     - ### <a style="color:red" href="https://github.com/arturvolokhin/myBlog-react">My blog</a>
-    - <a href="https://github.com/arturvolokhin/todo-react">Todo</a> 
+    - <a href="https://github.com/arturvolokhin/todo-react">Todo</a>
+    
+- ## Other:
+    - <a href="https://github.com/arturvolokhin/arturvolokhin.github.io" target="_blank">Landing page</a>
+    - <a href="https://github.com/arturvolokhin/tic-tac-toe" target="_blank">Tic-tac-toe</a>
   
     
 
