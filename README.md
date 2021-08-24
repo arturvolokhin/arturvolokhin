@@ -1,6 +1,6 @@
 # Hi, my name is Arthur, I’m 23 years old and I’m determined to change my life for the better👋
 
-### I’m studying front-end development in [TeachMeSkills](https://teachmeskills.by/).
+### I am a graduate of the  [TeachMeSkills](https://teachmeskills.by/) programming School.
 
 ## 💻 `My technology stack:`
 
