@@ -1,7 +1,8 @@
-# Hi, my name is Arthur, I’m 25 years old and I’m determined to change my life for the better👋
+# Hi, my name is Arthur, I’m 26 years old and I’m determined to change my life for the better👋
 
 ### I am graduate of the  [TeachMeSkills](https://teachmeskills.by) programming School.
 ### I am frontend developer at  [dev.family](https://dev.family/) IT company.
+### I have more than 3 years of development experience
 
 ## 💻 `My technology stack:`
 
@@ -24,14 +25,12 @@
 
 
 
-### 📈 Codewars
-<img src='https://www.codewars.com/users/arturvolokhin/badges/large'>
 
 ## 📭 `Contacts`
 - **VK:** <a href="https://vk.com/arturvolokhin97" target="_blank">arturvolokhin97</a>
 - **Telegram:** @arturvolokhin
 - **Instagram:** <a href="instagram.com/artur.volokhin" target="_blank">artur.volokhin</a>
-- **Mail:** arturvolokhin@mail.ru
+- **Mail:** arthurvolokhin@gmail.com
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=arturvolokhin&&show_icons=true'>
