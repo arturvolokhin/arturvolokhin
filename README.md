@@ -2,7 +2,6 @@
 
 ### I am graduate of the  [TeachMeSkills](https://teachmeskills.by) programming School.
 ### I am frontend developer at  [dev.family](https://dev.family/) IT company.
-### I have more than 3 years of development experience
 
 ## 💻 `My technology stack:`
 
