@@ -1,7 +1,7 @@
-# Hi, my name is Arthur, I’m 26 years old and I’m determined to change my life for the better👋
+# Hi, my name is Arthur, I’m 27 years old and I’m determined to change my life for the better👋
 
 ### I am graduate of the  [TeachMeSkills](https://teachmeskills.by) programming School.
-### I am frontend developer at  [dev.family](https://dev.family/) IT company.
+### I am lead frontend developer at  [dev.family](https://dev.family/) IT company.
 
 ## 💻 `My technology stack:`
 
